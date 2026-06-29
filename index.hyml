@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Beneath the Ashes | DayZ Community</title>
+  <meta name="description" content="Official website and supporter information for the Beneath the Ashes DayZ community." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="ash" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="brand" href="#top">Beneath the Ashes</a>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#features">Features</a>
+      <a href="#events">Events</a>
+      <a href="#support">Support</a>
+      <a href="#monetization">Fair Play</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">DayZ • Chernarus • PvE Survival with PvP Zones</p>
+        <h1>Beneath the Ashes</h1>
+        <p class="tagline">Rise. Survive. Rebuild.</p>
+        <p class="hero-text">
+          A community-driven DayZ server built around survival, custom events, dangerous traders,
+          player progression, and stories written in smoke, steel, and stubborn hope.
+        </p>
+        <div class="button-row">
+          <a class="button primary" href="https://discord.gg/YOURINVITE" target="_blank" rel="noopener">Join Discord</a>
+          <a class="button" href="#support">Support the Server</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section split">
+      <div>
+        <p class="section-kicker">About the server</p>
+        <h2>A harsher Chernarus with a living community.</h2>
+      </div>
+      <p>
+        Beneath the Ashes is a custom DayZ experience focused on PvE survival with dedicated PvP zones,
+        AI encounters, community events, custom traders, hidden opportunities, and multiple ways to earn your place in the wasteland.
+      </p>
+    </section>
+
+    <section id="features" class="section">
+      <p class="section-kicker">Server features</p>
+      <h2>What waits beyond the smoke?</h2>
+      <div class="card-grid">
+        <article class="card"><h3>AI Warzones</h3><p>Dangerous hostile zones, police presence, paratroopers, patrols, and high-risk encounters.</p></article>
+        <article class="card"><h3>Custom Economy</h3><p>Earn money through fishing, hunting, mining, moonshine, trading, events, and survivor grit.</p></article>
+        <article class="card"><h3>Cinder Market</h3><p>A fortified offshore black market reached by boat through shark-infested waters.</p></article>
+        <article class="card"><h3>Dynamic Events</h3><p>Pop-up traders, raffles, giveaways, yard sales, live auctions, and evolving community stories.</p></article>
+        <article class="card"><h3>Vehicle Life</h3><p>Land vehicles, boats, garages, theft rules, lockpicking, parking meters, and trader access routes.</p></article>
+        <article class="card"><h3>Progression</h3><p>DNA keycards, achievements, rare finds, collectible systems, and endgame goals.</p></article>
+      </div>
+    </section>
+
+    <section id="events" class="section dark-panel">
+      <p class="section-kicker">Current and past events</p>
+      <h2>The ashes are never quiet.</h2>
+      <div class="event-list">
+        <article><span>💀</span><div><h3>The Bone Broker</h3><p>Trade skulls for entry tickets and chase a raffle prize pulled from the grave dirt.</p></div></article>
+        <article><span>🎣</span><div><h3>The Captain's Bounty</h3><p>A fishing pop-up trader event bringing rare catches, police pressure, and north coast tension.</p></div></article>
+        <article><span>⛏️</span><div><h3>The Deep Vein</h3><p>A mining trader event where valuable ore and gems become survival currency.</p></div></article>
+      </div>
+    </section>
+
+    <section id="support" class="section">
+      <p class="section-kicker">Support the server</p>
+      <h2>Help keep the fires burning.</h2>
+      <p class="wide-text">
+        Supporting Beneath the Ashes is completely optional. Contributions help cover hosting, custom development,
+        premium mod licensing, artwork, community events, future content, and ongoing improvements.
+      </p>
+      <div class="tier-grid">
+        <article class="tier"><h3>❤️ Supporter</h3><p class="tier-type">One-time donation</p><p>Supporter Discord role and community recognition.</p></article>
+        <article class="tier featured"><h3>🔥 Epic Supporter</h3><p class="tier-type">One-time donation of $25+</p><p>Epic Supporter Discord role, community recognition, and access to the Epic Supporter channel.</p></article>
+        <article class="tier"><h3>💀 Ashen Patron</h3><p class="tier-type">Monthly supporter</p><p>Ashen Patron Discord role, exclusive channel, development updates, early previews, polls, and feedback opportunities.</p></article>
+      </div>
+      <p class="note">Add your PayPal, Patreon, Tebex, or other supporter link here when ready.</p>
+    </section>
+
+    <section id="monetization" class="section dark-panel">
+      <p class="section-kicker">Fair play commitment</p>
+      <h2>No pay-to-win. No shortcuts through the ash.</h2>
+      <p>
+        Beneath the Ashes follows Bohemia Interactive's Server Monetization Rules. We do not sell gameplay advantages,
+        combat advantages, progression advantages, weapons, vehicles, in-game currency, high-tier gear, DNA Keycards, or Black Market access.
+        All supporter benefits are cosmetic, social, or community-focused.
+      </p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© Beneath the Ashes DayZ Community</p>
+    <p>Not affiliated with Bohemia Interactive.</p>
+  </footer>
+</body>
+</html>
